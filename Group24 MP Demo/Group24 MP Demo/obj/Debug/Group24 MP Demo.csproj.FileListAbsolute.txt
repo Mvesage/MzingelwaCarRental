@@ -1,0 +1,15 @@
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\bin\Debug\Group24 MP Demo.exe.config
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\bin\Debug\Group24 MP Demo.exe
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\bin\Debug\Group24 MP Demo.pdb
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24 MP Demo.csprojResolveAssemblyReference.cache
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24_MP_Demo.Properties.Resources.resources
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24 MP Demo.csproj.GenerateResource.Cache
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24 MP Demo.exe
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24 MP Demo.pdb
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24_MP_Demo.MainScreen.resources
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24_MP_Demo.ProfileForm.resources
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24_MP_Demo.Invoice_Form.resources
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24_MP_Demo.Payment_Form.resources
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24_MP_Demo.EmpRegForm.resources
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24_MP_Demo.LoginForm.resources
+C:\Users\27695\Desktop\Projects\Group24 MP Demo\Group24 MP Demo\obj\Debug\Group24_MP_Demo.ManagerForm.resources
